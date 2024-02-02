@@ -1,4 +1,10 @@
-### Hi there 👋
+![Dave Banner](gitprofile.png)
+
+
+
+[![Ldin](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-Linkedin-blue?style=flat&logo=linkedin&logoColor=%230A66C2&label=In&labelColor=%231c1c1c&color=%23e3e3e3)](https://www.linkedin.com/in/david-poza-martin-062887240/)
+[![HTB](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-Hack_The_Box-blue?style=flat&logo=hackthebox&logoColor=%239FEF00&label=HTB&labelColor=%231c1c1c&color=%23e3e3e3)](https://app.hackthebox.com/profile/1782127)
+
 
 <!--
 **davidpm-19/davidpm-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
