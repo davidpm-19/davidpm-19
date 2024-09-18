@@ -1,4 +1,3 @@
-![Dave Banner](gitprofile.png)
 
 
 
